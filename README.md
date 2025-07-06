@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aakashnnt123/MyLeetCodeSolutions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aakashnnt123/MyLeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/aakashnnt123/MyLeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0941-sort-array-by-parity](https://github.com/aakashnnt123/MyLeetCodeSolutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/aakashnnt123/MyLeetCodeSolutions/tree/master/0958-sort-array-by-parity-ii) |
 ## Hash Table
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/aakashnnt123/MyLeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0941-sort-array-by-parity](https://github.com/aakashnnt123/MyLeetCodeSolutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/aakashnnt123/MyLeetCodeSolutions/tree/master/0958-sort-array-by-parity-ii) |
 ## Sorting
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/aakashnnt123/MyLeetCodeSolutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/aakashnnt123/MyLeetCodeSolutions/tree/master/0958-sort-array-by-parity-ii) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/aakashnnt123/MyLeetCodeSolutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
